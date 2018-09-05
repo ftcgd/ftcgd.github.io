@@ -8,8 +8,8 @@ body {
 }
 
 .sectorBody {
-  background-color: #303030;
-  color: white;
+  background-color: #eee;
+  color: #505050;
 }
 
 .gdnav {
@@ -141,6 +141,7 @@ body {
 .imageHolder {
   display: block;
   position: relative;
+  background-color: white;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
