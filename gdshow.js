@@ -3,6 +3,11 @@ $(document).ready(main);
 
 function main() {
 
+  $(".imageHolder").hide();
+  $(".imageHolder").fadeIn(2000);
+  
+  $(".sectorHeader").css("left", "0");
+
   // // Hides the things to be hidden
   // $(".welcome").hide();
   // $(".paragraph").hide();
