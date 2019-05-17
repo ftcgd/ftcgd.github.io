@@ -214,6 +214,10 @@ footer {
   background-image: url("content/ZacGD/shoes.jpg");
 }
 
+.shoeCollection {
+  background-image: url("content/shoeCollection.jpg");
+}
+
 .shoesSketch {
   background-image: url("content/ZacGD/shoesSketch.jpg");
 }
