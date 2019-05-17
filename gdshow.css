@@ -8,8 +8,12 @@
 }
 
 body {
-  padding-bottom: 200px;
   background-color: #404040;
+}
+
+footer {
+  padding-top: 200px;
+  padding: 50px;
 }
 
 .sectorBody {
@@ -196,6 +200,14 @@ body {
 
 .blueSky {
   background-image: url("content/blueSky.jpg");
+}
+
+.icebergSketch {
+  background-image: url("content/icebergSketch.jpg");
+}
+
+.cautionStripes {
+  background-image: url("content/cautionStripes.jpg");
 }
 
 .shoes {
